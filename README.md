@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Raniery Martins
+# Raniery Martins
 
 **`Desenvolvedora FullStack`**
 
