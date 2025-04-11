@@ -15,8 +15,8 @@ Me chamo Raniery Martins, tenho 20 anos e sou natural do Maranhão, Concluí o e
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            title="Vizualizações" 
+            src=""
         />
     </a> 
     <a href="https://github.com/Ranierymartins?tab=repositories&sort=stargazers">
