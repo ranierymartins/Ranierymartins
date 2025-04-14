@@ -5,13 +5,6 @@
 Me chamo Raniery Martins, tenho 20 anos e sou natural do Maranhão, Concluí o ensino médio no CINTRA, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Pitágoras. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu através do Instagram, "[Raniery Martins](https://www.instagram.com/raniery.martins_/?__pwa=1)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
