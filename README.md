@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Raniery Martins, tenho 20 anos e sou natural do Maranhão, Concluí o ensino médio no CINTRA, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Pitágoras. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu através do Instagram, "[Raniery Martins](https://www.instagram.com/raniery.martins_/?__pwa=1)".
+Me chamo Raniery Martins, tenho 20 anos e sou natural do Maranhão. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu através do Instagram, "[Raniery Martins](https://www.instagram.com/raniery.martins_/?__pwa=1)".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich">
